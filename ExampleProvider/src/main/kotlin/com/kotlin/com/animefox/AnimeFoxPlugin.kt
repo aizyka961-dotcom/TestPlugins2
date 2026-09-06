@@ -9,4 +9,5 @@ class AnimeFoxPlugin : Plugin() {
     override fun load(context: Context) {
         registerMainAPI(AnimeFoxProvider())
     }
-}
+
+    
